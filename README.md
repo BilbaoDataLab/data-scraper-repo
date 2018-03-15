@@ -1,2 +1,2 @@
-# data-scrapers
-Collection of data scraper-repo
+# data-scraper-repo
+Collection of data scrapers
